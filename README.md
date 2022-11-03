@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thanir03 aka Thanir
+- 👋 Hi, I’m Thanirmalai aka Thanir
 - 👀 I’m interested in web development mainly front-end  
 - 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on a front end project
